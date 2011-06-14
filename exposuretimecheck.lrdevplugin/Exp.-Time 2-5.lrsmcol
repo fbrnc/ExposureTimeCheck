@@ -1,0 +1,34 @@
+s = {
+	id = "CAD57D34-3ABF-4028-A7A0-B5DE99761C83",
+	internalName = "Exp.-Time 2-5",
+	title = "Exp.-Time 2-5",
+	type = "LibrarySmartCollection",
+	value = {
+		{
+			criteria = "sdktext:de.fabrizio-branca.exposuretimecheck.exposureTimeFactor",
+			operation = "any",
+			value = "2",
+			value2 = "",
+		},
+		{
+			criteria = "sdktext:de.fabrizio-branca.exposuretimecheck.exposureTimeFactor",
+			operation = "any",
+			value = "3",
+			value2 = "",
+		},
+		{
+			criteria = "sdktext:de.fabrizio-branca.exposuretimecheck.exposureTimeFactor",
+			operation = "any",
+			value = "4",
+			value2 = "",
+		},
+		{
+			criteria = "sdktext:de.fabrizio-branca.exposuretimecheck.exposureTimeFactor",
+			operation = "any",
+			value = "5",
+			value2 = "",
+		},
+		combine = "union",
+	},
+	version = 0,
+}

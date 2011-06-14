@@ -1,0 +1,16 @@
+s = {
+	id = "7F10F124-AB78-4DCB-A4F0-C867BEA6ACE1",
+	internalName = "Long Exp.-Times",
+	title = "Long Exp.-Times",
+	type = "LibrarySmartCollection",
+	value = {
+		{
+			criteria = "shutterSpeed",
+			operation = ">",
+			value = 5.9068905956085,
+			value2 = 0,
+		},
+		combine = "intersect",
+	},
+	version = 0,
+}

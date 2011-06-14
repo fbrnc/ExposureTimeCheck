@@ -1,0 +1,34 @@
+s = {
+	id = "B0399FE4-F3D6-4767-903B-D32F8DAED32D",
+	internalName = "Exp.-Time 6-9+",
+	title = "Exp.-Time 6-9+",
+	type = "LibrarySmartCollection",
+	value = {
+		{
+			criteria = "sdktext:de.fabrizio-branca.exposuretimecheck.exposureTimeFactor",
+			operation = "any",
+			value = "6",
+			value2 = "",
+		},
+		{
+			criteria = "sdktext:de.fabrizio-branca.exposuretimecheck.exposureTimeFactor",
+			operation = "any",
+			value = "7",
+			value2 = "",
+		},
+		{
+			criteria = "sdktext:de.fabrizio-branca.exposuretimecheck.exposureTimeFactor",
+			operation = "any",
+			value = "8",
+			value2 = "",
+		},
+		{
+			criteria = "sdktext:de.fabrizio-branca.exposuretimecheck.exposureTimeFactor",
+			operation = "any",
+			value = "9",
+			value2 = "",
+		},
+		combine = "union",
+	},
+	version = 0,
+}
